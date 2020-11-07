@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan31.perkenalanmahasiswa;
  * NAMA              : Muhammad Farhan R 
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program : Program perkenalan mahasiswa dengan nama dan nim
  *
  */
 public class IF110119023Latihan31PerkenalanMahasiswa {
